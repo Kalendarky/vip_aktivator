@@ -1,3 +1,5 @@
+/* LICENSE: https://github.com/Kalendarky/license/blob/master/v1/LICENSE.md */
+
 #include <amxmodx>
 #include <amxmisc>
 #include <sqlx>
